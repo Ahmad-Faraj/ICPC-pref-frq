@@ -1,6 +1,6 @@
 # Revision & Tips
 
-- [**Will be Added Later**](https://drive.google.com/file/d/1NO1X4g381iT18PdbO8pk1_4_vLx72XXw/view?usp=sharing)
+- [**Session Video (Will be Added Later)**](https://drive.google.com/file/d/1NO1X4g381iT18PdbO8pk1_4_vLx72XXw/view?usp=sharing)
 
 ## **Postfix & Prefix**
 
