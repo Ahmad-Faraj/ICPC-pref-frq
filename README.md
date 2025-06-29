@@ -1,4 +1,4 @@
-Basic STL ( map only for freq (big range || complex obj) ) : http://usaco.guide/bronze/intro-sets?lang=cpp
+Basic STL ( map only for freq (big range + little ele || complex obj) ) : http://usaco.guide/bronze/intro-sets?lang=cpp
 
 ## **Frequency Array**
 
