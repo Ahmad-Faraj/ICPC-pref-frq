@@ -17,6 +17,7 @@
 
 - **[count a's](https://codeforces.com/group/c3FDl9EUi9/contest/262795/problem/H)**
 - **[Hard Bits](https://codeforces.com/group/p6hc42ieQe/contest/324287/problem/G)**
+- **2Dprefix**
 
 ## **Frequency Array**
 
