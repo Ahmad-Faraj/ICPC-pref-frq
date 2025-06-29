@@ -19,7 +19,7 @@
 - **[Hard Bits](https://codeforces.com/group/p6hc42ieQe/contest/324287/problem/G)**
 - **2Dprefix**
 
-related : https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
+related suff-max : https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
 
 ## **Frequency Array**
 
