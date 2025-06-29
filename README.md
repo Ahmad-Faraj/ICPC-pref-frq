@@ -21,4 +21,4 @@ related suff-max : https://leetcode.com/problems/best-time-to-buy-and-sell-stock
 
 - **[update range](https://codeforces.com/group/c3FDl9EUi9/contest/262795/problem/F)**
 
-bonus
+bonus binary search problem (you did not take Binary search yet but search and learn how it works ) : https://leetcode.com/problems/maximal-square/description/
