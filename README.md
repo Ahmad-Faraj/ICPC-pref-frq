@@ -29,3 +29,7 @@ material : https://usaco.guide/silver/two-pointers?lang=cpp
 https://codeforces.com/contest/702/problem/C
 
 https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/?envType=problem-list-v2&envId=ni4p9x8g
+
+https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/B
+
+https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/C
