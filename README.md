@@ -26,9 +26,15 @@ bonus binary search problem (you did not take Binary search yet but search and l
 ## **Two Pointer**
 material : https://usaco.guide/silver/two-pointers?lang=cpp
 
-https://codeforces.com/contest/702/problem/C
+https://youkn0wwho.academy/topic-list/two_pointers
 
 https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/?envType=problem-list-v2&envId=ni4p9x8g
+
+https://codeforces.com/contest/702/problem/C
+
+https://codeforces.com/problemset/problem/1006/C
+
+https://cses.fi/problemset/task/1641/
 
 https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/B
 
