@@ -33,3 +33,6 @@ https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/?envT
 https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/B
 
 https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/C
+
+- **[Sorting pairs](https://codeforces.com/group/c3FDl9EUi9/contest/262795/problem/K)**
+0 commit commentsComments0 (0)Lock conversation
